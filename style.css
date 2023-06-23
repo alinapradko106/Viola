@@ -1,0 +1,249 @@
+body {
+	background-color:rgba(138, 169, 228, 0.9);
+	margin:0px;
+	line-height:20px;
+	font-family: 'Raleway';
+}
+
+header {
+	background-image: url("картинки для сайта/фоновый цвет.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+	height:200px;
+	
+}
+main {
+	margin-left:250px;
+	margin-right:250px;
+}
+
+footer {
+	background: linear-gradient(265.3deg, #EA58DB 8.06%, #EDD036 76.18%);
+	height:400px;
+}
+
+section {
+	margin-bottom: 100px;
+}
+
+header a {
+	background-image:linear-gradient(90deg, #1836D3 0%, rgba(106, 76, 169, 0.88) 100%);
+	border-radius:5px;
+	text-decoration:none;
+	color: white;
+	padding:15px;
+	height:15px;
+	margin-top:30px;
+	
+}
+
+/* h2 {
+	text-shadow:-4px 4px 3px white;
+} */
+
+header div {
+	justify-content:space-around;
+	display:flex;
+	width:1000px;
+	float:right;
+}
+
+header img {
+	margin-top:30px;
+	margin-left:30px;
+	opacity:1;
+	position:absolute;
+	top:3px;
+	left:40px;
+	
+}
+
+.card  {
+	display:flex;
+}
+
+
+.div_wild-growing {
+	width: 393px;
+	height: 400px;
+	margin:20px;
+	padding:10px;
+	display:block;
+	
+
+	background-image:url("https://foni.club/uploads/posts/2023-02/1675837468_foni-club-p-fon-zheltii-gradient-dlya-storis-9.jpg");
+	background-repeat: no-repeat;
+	background-size:100%;
+	border-radius: 27px;
+	border: 3px solid rgba(26, 86, 4, 0.65);
+	/*  #81E060 */картинка на контейнеры
+}
+
+
+.img_wild,.difference{
+	width: 327px;
+	height: 232px;
+
+	border-radius: 27px;
+}
+
+.difference {
+	margin:20px;
+}
+
+.p_wild {
+	width:300px; 
+	font-size:20px;
+	line-height:23px;
+	font-family: , sans-serif;
+}
+
+.img_bottom {
+	position: relative;
+	top:20px;
+}
+
+.klassifikaziya div {
+	width:800px;
+	display:flex;
+}
+img {
+	border-radius:20px;
+}
+
+p {
+	width:700px;
+	text-align: justify;
+}
+
+ul {
+	width:400px;
+	text-align:left;
+	list-style: url("картинки для сайта/цветок-20.png");
+}
+
+.f_logo {
+	position:relative;
+	top: 50px;
+	left: 50px;
+}
+.info {
+	width:750px;
+	position:relative;
+	left:200px;
+	bottom:70px;
+	line-height:50px;
+	display:flex;
+}
+
+.info a {
+	text-decoration:none;
+	color:black;
+}
+
+.info h3 {
+	position:relative;
+	left:250px;
+	bottom:70px;
+}
+.info1 {
+	margin-right:50px;
+}
+
+.repost {
+	width:130px;
+	position:relative;
+	bottom:300px;
+	left: 1090px;
+	display:flex;
+}
+
+.repost img {
+	position:relative;
+	top:10px;
+}
+
+.seti {
+	width:700px;
+	position:relative;
+	bottom:250px;
+	left:100px;
+	display:flex;
+}
+
+.seti img {
+	margin-left:50px;
+}
+
+.tel_mail {
+	width:200px;
+	position:relative;
+	left:1080px;
+	bottom:270px;
+	margin-right:0px;
+}
+
+.tel_mail img {
+	position:relative;
+	right:40px;
+	top:50px;
+}
+
+.tel_mail p {
+	width:150px;
+}
+
+.img1 {
+	position:relative;
+	bottom:490px;
+	height:300px
+}
+
+.img2 {
+	position:relative;
+	right:200px;
+	bottom: 250px;
+	height:250px
+}
+
+.img3 {
+	position:relative;
+	right:200px;
+	bottom:680px;
+	width:300px
+}
+
+.kulinariya {
+	display: flex;
+	height: 800px;
+}
+.milk {
+	position: relative;
+	right: 30px;
+}
+.big_cake {
+	position:relative;
+	left:340px;
+	bottom:330px;
+}
+
+.ledenez {
+	position:relative;
+	left:300px;
+	bottom:300px;
+}
+.cake {
+	position:relative;
+	bottom:450px;
+	
+}
+.resepy {
+	display: flex;
+	height: 200px;
+}
+.pudra {
+	position: relative;
+	bottom: 200px;
+}
+
+
